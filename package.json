@@ -1,7 +1,7 @@
 {
   "name": "classification-list",
   "version": "1.0.0",
-  "description": "",
+  "description": "A classification list ! That allow dictionary mapping! hashmap retrieval! And list iteration at once!",
   "private": true,
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
